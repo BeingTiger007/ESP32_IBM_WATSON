@@ -3,8 +3,11 @@
         "efuse",
         "espressif",
         "get",
+        "hyrd",
         "kazi",
         "mac",
+        "mqtt",
         "umme"
-    ]
+    ],
+    "C_Cpp.errorSquiggles": "Disabled"
 }
